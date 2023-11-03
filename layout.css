@@ -1,0 +1,31 @@
+aside {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	height: 210px;
+	width: 180px;
+	margin: 10px;
+	padding: 5px;
+	border: 5px rgb(0, 0, 0) solid;
+    float: right
+}
+figcaption {
+    text-align: center;
+    clear: both;
+    color: #2E6C85;
+  }
+
+  figure {
+    float: left;
+    width: 35vw;
+    margin: 2vh 0;
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	height: 200px;
+	width: 180px;
+	margin: 10px;
+	padding: 5px;
+	border: 5px rgb(0, 0, 0) solid;
+  }
+
